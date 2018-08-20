@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">upc tool</string>
+    <string name="title_activity_upcsearch">UPCSearchActivity</string>
+</resources>
